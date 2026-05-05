@@ -1,0 +1,16 @@
+com\example\backend\repositories\UserRepository.class
+com\example\backend\controllers\TaskController.class
+com\example\backend\BackendApplication.class
+com\example\backend\controllers\AuthController.class
+com\example\backend\controllers\EventController.class
+com\example\backend\repositories\TaskRepository.class
+com\example\backend\models\Role.class
+com\example\backend\models\User.class
+com\example\backend\models\TaskApplication.class
+com\example\backend\config\SecurityConfig.class
+com\example\backend\controllers\ApplicationController.class
+com\example\backend\models\Event.class
+com\example\backend\models\ApplicationStatus.class
+com\example\backend\models\Task.class
+com\example\backend\repositories\TaskApplicationRepository.class
+com\example\backend\repositories\EventRepository.class
